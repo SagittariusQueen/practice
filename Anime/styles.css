@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: royalblue;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size:24px;
+}
+h2 {
+    color: gold;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    
+}
+body{
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+}
+.legend {
+    background: url('./images/cree\ summer.jpg');
+    background-repeat:repeat;
+    height:200vh;
+    color: aliceblue;
+    background-attachment: fixed;
+    justify-content: center;
+
+    
+}
+.legendary{
+    background: url(./images/BLKxlnc.jpg);
+    height: 400px;
+}
+.japan{
+    background: url(./images/shibuya.jpg);
+    background-attachment: fixed;
+    height:420vh;
+    background-size: 400px;
+    color:antiquewhite;
+}
+/* leave a comment */
+/*How to link a font style from Google Fonts*/
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&family=Noto+Sans+JP:wght@500&family=Permanent+Marker&family=Press+Start+2P&display=swap');
+
